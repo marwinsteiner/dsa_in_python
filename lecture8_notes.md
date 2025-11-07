@@ -1,5 +1,3 @@
-from idlelib.tree import TreeNode
-
 # Binary Search Tree
 
 Binary search trees are a special kind of binary tree. A binary tree is a tree where each node has zero, one, or two
@@ -121,4 +119,3 @@ class BinarySearchTree:
   - Dynamic sets
   - Lookup tables
   - Priority queues
-- 
